@@ -47,3 +47,7 @@ Follow the given steps
 
 ### Install 64 bit version of python from [here](https://www.python.org/)
 
+### Install cmake 
+
+
+
